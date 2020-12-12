@@ -6,6 +6,6 @@
 
 **54条指令单周期CPU**：[54-MIPS-CPU](https://github.com/Storm-Rage0/54-MIPS-CPU)
 
-**静态流水线CPU**：
+**静态流水线CPU**：[Static Pipeline MIPS CPU](https://github.com/Storm-Rage0/MIPS-CPU/tree/main/Static%20Pipeline%20MIPS%20CPU)
 
-**动态流水线CPU**：
+**动态流水线CPU**：[Dynamic Pipeline MIP CPU](https://github.com/Storm-Rage0/MIPS-CPU/tree/main/Dynamic%20Pipeline%20MIPS%20CPU)
